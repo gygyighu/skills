@@ -1,3 +1,3 @@
 <?php
-    echo 'Hi';
+    require_once "./config/setting.php";
 
