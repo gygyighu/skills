@@ -1,3 +1,2 @@
 <?php
-    echo 'Hi';
-
+    require_once "./common/fun.inc.php";
